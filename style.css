@@ -19,8 +19,12 @@ header {
     padding: 10px 0;
 }
 
-header a {
+header button {
     color: yellow;
+    background-color: black;
+    font-size: large;
+    outline: none;
+    border: none;
 }
 
 .content {
